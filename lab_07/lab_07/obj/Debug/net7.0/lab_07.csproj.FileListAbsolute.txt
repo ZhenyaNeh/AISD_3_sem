@@ -1,0 +1,14 @@
+D:\University\AISD\lab_07\lab_07\bin\Debug\net7.0\lab_07.exe
+D:\University\AISD\lab_07\lab_07\bin\Debug\net7.0\lab_07.deps.json
+D:\University\AISD\lab_07\lab_07\bin\Debug\net7.0\lab_07.runtimeconfig.json
+D:\University\AISD\lab_07\lab_07\bin\Debug\net7.0\lab_07.dll
+D:\University\AISD\lab_07\lab_07\bin\Debug\net7.0\lab_07.pdb
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.AssemblyInfoInputs.cache
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.AssemblyInfo.cs
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.csproj.CoreCompileInputs.cache
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.dll
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\refint\lab_07.dll
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.pdb
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\lab_07.genruntimeconfig.cache
+D:\University\AISD\lab_07\lab_07\obj\Debug\net7.0\ref\lab_07.dll

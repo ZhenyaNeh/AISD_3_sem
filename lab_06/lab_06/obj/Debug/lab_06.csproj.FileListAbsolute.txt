@@ -1,0 +1,10 @@
+D:\University\AISD\lab_06\lab_06\bin\Debug\lab_06.exe.config
+D:\University\AISD\lab_06\lab_06\bin\Debug\lab_06.exe
+D:\University\AISD\lab_06\lab_06\bin\Debug\lab_06.pdb
+D:\University\AISD\lab_06\lab_06\obj\Debug\lab_06.csproj.AssemblyReference.cache
+D:\University\AISD\lab_06\lab_06\obj\Debug\lab_06.csproj.CoreCompileInputs.cache
+D:\University\AISD\lab_06\lab_06\obj\Debug\lab_06.exe
+D:\University\AISD\lab_06\lab_06\obj\Debug\lab_06.pdb
+D:\University\AISD\lab_06\lab_06\bin\Debug\C5.dll
+D:\University\AISD\lab_06\lab_06\bin\Debug\C5.xml
+D:\University\AISD\lab_06\lab_06\obj\Debug\lab_06.csproj.CopyComplete

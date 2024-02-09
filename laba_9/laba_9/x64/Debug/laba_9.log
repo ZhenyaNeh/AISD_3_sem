@@ -1,0 +1,7 @@
+﻿  GeneticAlgorithm.cpp
+D:\University\AISD\laba_9\laba_9\GeneticAlgorithm.cpp(26,28): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\University\AISD\laba_9\laba_9\GeneticAlgorithm.cpp(51,37): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  laba_9.cpp
+D:\University\AISD\laba_9\laba_9\laba_9.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  laba_9.vcxproj -> D:\University\AISD\laba_9\x64\Debug\laba_9.exe

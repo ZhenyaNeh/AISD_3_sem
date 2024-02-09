@@ -1,0 +1,8 @@
+D:\University\AISD\ConsoleApp2\test\bin\Debug\test.exe.config
+D:\University\AISD\ConsoleApp2\test\bin\Debug\test.exe
+D:\University\AISD\ConsoleApp2\test\bin\Debug\test.pdb
+D:\University\AISD\ConsoleApp2\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\University\AISD\ConsoleApp2\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+D:\University\AISD\ConsoleApp2\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\University\AISD\ConsoleApp2\test\obj\Debug\test.exe
+D:\University\AISD\ConsoleApp2\test\obj\Debug\test.pdb

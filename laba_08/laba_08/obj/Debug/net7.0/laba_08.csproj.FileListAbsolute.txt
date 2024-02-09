@@ -1,0 +1,14 @@
+D:\University\AISD\laba_08\laba_08\bin\Debug\net7.0\laba_08.exe
+D:\University\AISD\laba_08\laba_08\bin\Debug\net7.0\laba_08.deps.json
+D:\University\AISD\laba_08\laba_08\bin\Debug\net7.0\laba_08.runtimeconfig.json
+D:\University\AISD\laba_08\laba_08\bin\Debug\net7.0\laba_08.dll
+D:\University\AISD\laba_08\laba_08\bin\Debug\net7.0\laba_08.pdb
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.AssemblyInfoInputs.cache
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.AssemblyInfo.cs
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.csproj.CoreCompileInputs.cache
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.dll
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\refint\laba_08.dll
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.pdb
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\laba_08.genruntimeconfig.cache
+D:\University\AISD\laba_08\laba_08\obj\Debug\net7.0\ref\laba_08.dll
